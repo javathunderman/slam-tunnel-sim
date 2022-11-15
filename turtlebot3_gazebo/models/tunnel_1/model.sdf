@@ -6,16 +6,16 @@
       <collision name="collision">
         <geometry>
           <mesh>
-          <scale>2 2 2</scale>
-            <uri>model://tunnel_1/meshes/model.dae</uri>
+          <scale>0.0254 0.0254 0.0254</scale>
+            <uri>model://tunnel_1/meshes/tunnel_trajectory.stl</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-          <scale>2 2 2</scale>
-            <uri>model://tunnel_1/meshes/model.dae</uri>
+          <scale>0.0254 0.0254 0.0254</scale>
+            <uri>model://tunnel_1/meshes/tunnel_trajectory.stl</uri>
           </mesh>
         </geometry>
       </visual>
